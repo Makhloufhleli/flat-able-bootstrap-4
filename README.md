@@ -2,15 +2,14 @@
 this is a fully responsive bootstrap 4 admin template for your complete need.
 
 
-Bower Information
+# Bower Information
 
 
 Please note that all detail about Bower visit official main website - bower.io
-
 You also must install "Bower Installer" for - Tool for installing bower dependencies that won't include entire repos.
 Although Bower works great as a light-weight tool to quickly install browser dependencies, it currently does not provide much functionality for installing specific "built" components for the client.
 
-Visit Github for more detail
+# Visit Github for more detail
 
 <!-- Bower Install -->
 
